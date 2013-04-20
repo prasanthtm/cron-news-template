@@ -1,0 +1,16 @@
+/*
+	Theme Name: CronFrog
+	Theme URI: http://cronfrog.com/templates
+	Description: HTML WordPress Theme
+	Version: 1.0.0
+	Author: Prasanth (@hlplazysam)
+	Author URI: http://cronfrog.com
+	Tags: CronFrog, HTML5, CSS3, css, HTML
+	
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+*/
+body {
+	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color:#444;
+}
